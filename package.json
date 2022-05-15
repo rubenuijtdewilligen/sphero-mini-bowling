@@ -1,0 +1,47 @@
+{
+  "name": "sphero-mini-bowling",
+  "version": "1.0.0",
+  "description": "Automatically drives the Sphero Mini into the included bowling pins. I built this to learn about the Sphero Mini and OpenCV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenuijtdewilligen/sphero-mini-bowling.git"
+  },
+  "keywords": [
+    "sphero",
+    "mini",
+    "bowling",
+    "pins",
+    "python",
+    "node",
+    "opencv",
+    "computer",
+    "vision",
+    "cv2"
+  ],
+  "author": "Ruben Uijtdewilligen <ruben@uijtdewilligenbv.nl> (rubenuijtdewilligen.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rubenuijtdewilligen/sphero-mini-bowling/issues"
+  },
+  "homepage": "https://github.com/rubenuijtdewilligen/sphero-mini-bowling#readme",
+  "dependencies": {
+    "spherov2.js": "^0.1.25"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.6.2"
+  }
+}
